@@ -41,3 +41,7 @@ Customer Shopping Analysis Dashboard (Tableau)
 - Strengthen loyalty programs to retain Member customers.
 - Increase inventory and promotions for Food and Beverages products.
 - Promote digital payment methods through cashback and special offers.
+
+## Conclusion
+
+This Tableau dashboard successfully analyzes customer purchasing behavior using the Supermarket Sales dataset. The analysis shows that **Member customers** contribute the highest sales, **Cash** is the most preferred payment method, **Food and Beverages** is the best-performing product category, and **Naypyitaw** generates the highest revenue. These insights help identify valuable customer segments, popular products, and high-performing locations. Overall, the dashboard demonstrates how data visualization can support better business decisions, improve marketing strategies, optimize inventory management, and enhance customer satisfaction.
