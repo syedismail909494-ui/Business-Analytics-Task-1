@@ -1,4 +1,4 @@
- #Customer Shopping Analysis Dashboard
+Customer Shopping Analysis Dashboard (Tableau)
 
  https://public.tableau.com/app/profile/syed.ismail4612/viz/businessanalysistask4_17860957918110/Dashboard1?publish=yes
  
